@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name = "TEXTVIEW_STYLE">
+        <item name = "android:text">TEST를 위한 TextView입니다</item>
+        <item name = "android:textSize">20dp</item>
+        <item name = "android:textColor">@color/teal_700</item>
+    </style>
+</resources>
